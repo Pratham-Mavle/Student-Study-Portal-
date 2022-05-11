@@ -1,0 +1,8 @@
+youtube-search-python
+googletrans
+BeautifulSoup4
+django
+django-crispy-forms
+wikipedia
+mysqlclient
+psycopg2
